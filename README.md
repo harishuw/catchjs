@@ -29,4 +29,4 @@ ie Where ever you are including add  `?t=js` to get script
 Just open catchjs.php or included file to view bugs
 
 ##### Note
-Delete option wont work in old browswes
+Delete option wont work in old browsers
