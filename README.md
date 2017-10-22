@@ -5,9 +5,10 @@ Testers and end users will find some bugs, but developers need to replicate scen
 # Usage
 Add `catchjs.php` to the root directory of your project
 Then include script like this in your html head
-``
+
+```
 <script src="catchjs.php?t=js"></script>
-``
+```
 
 ### Customize
   You can add `catchjs.php` anywhere in your project
@@ -16,9 +17,10 @@ Then include script like this in your html head
   - Open catchjs.php (you can include it in any file in that case open that file)
   - Update script url to your url (`http://www.example.com/yourpath/catchjs_included_file`)
   - Add script to head  with new path ie
-``
+  
+```
 <script src="http://www.example.com/yourpath/catchjs_included_file?t=js"></script>
-``
+```
 
 ie Where ever you are including add  `?t=js` to get script 
 
