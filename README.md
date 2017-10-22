@@ -1,0 +1,2 @@
+# catchjs
+Log javascript errors
