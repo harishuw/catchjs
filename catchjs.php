@@ -479,7 +479,8 @@ switch($type){
     case"js":
         $cj->js();
         break;
-    case "s":   
+    case "s":  
+        $cj->hd();
         $cj->set();
         break;
     case"v":
